@@ -1,5 +1,5 @@
 
-[![Обложка к видео «todo»](./src/image/img.png)](https://youtu.be/9OGJT4Odjoo)
+[![Обложка к видео «todo»](./src/image/img.png)](https://youtu.be/-CH5yU_9QsQ)
 
 
 
@@ -8,6 +8,8 @@
 
 Список дел с помощью React.
 
+
+P.S.: Нажми на картинку, чтобы посмотреть видео.
 
 
 ---
